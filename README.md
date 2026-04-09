@@ -10,7 +10,6 @@ Different communication channels require different message styles. This API auto
 * Express.js
 
 ## Project Structure
-
 project/
 │
 ├── app.js
