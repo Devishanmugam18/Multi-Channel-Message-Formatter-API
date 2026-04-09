@@ -9,17 +9,6 @@ Different communication channels require different message styles. This API auto
 * Node.js
 * Express.js
 
-## Project Structure
-project/
-│
-├── app.js
-├── routes/
-│   └── messageRoutes.js
-├── controllers/
-│   └── messageController.js
-├── services/
-│   └── formatterService.js
-
 ## Design Decisions
 
 ### 1. Layered Architecture
