@@ -29,6 +29,7 @@ The project follows a clean separation of concerns:
 * **Routes** → Handle API endpoints
 * **Controllers** → Handle request & response logic
 * **Services** → Contain business logic (formatting)
+
 This makes the code:
 * Maintainable
 * Scalable
@@ -180,5 +181,3 @@ http://localhost:3000
 ## 🧪 Testing Tools
 * Postman
 ---
-
-Built as part of backend learning and API design practice.
